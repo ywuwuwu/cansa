@@ -1,4 +1,4 @@
-# CANSA (Minimal Open Release): Context‑Aware Network Slicing Auction
+# CANSA Context‑Aware Network Slicing Auction
 
 Edge & split inference: dynamic, multi‑branch models + context‑aware fusion.
 

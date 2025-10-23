@@ -26,7 +26,7 @@ multi‑branch sensor‑fusion DNNs** over device/edge. It reproduces core analy
 
 - `bid_final.py` — client/server simulation + two‑phase allocation + post‑allocation adaptation (runs end‑to‑end).
 - `utils1.py` — latency/energy/accuracy utilities, action decoding, context maps, and a small channel sampler.
-- `paper/` *(optional)* — PDF of the paper for context.
+- `paper/` — PDF of the paper for context.
 
 ## 📚 Citation
 
